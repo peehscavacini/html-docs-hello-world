@@ -1,0 +1,48 @@
+<DOCTYPE! html>
+<head>
+
+</head>
+
+<body>
+
+<html>
+    
+    <head>
+    
+    <title> Currículo </title> 
+    
+    </head>
+    
+    <body>
+    
+    
+    <h1 align = 'center' <b> Currículo </h4></b>
+    
+    <h3><b> <u>1 - Dados Pessoais</u></b></h3>
+    
+    <h4><b>Nome:</b><br></h4>Henrique Ambroselli Saula<br>
+    
+    <h4>Data de Nascimento:</h4>07/07/1995
+    
+    <h4>Endereço: </h4> Rua Barra Do Tibagi, 416    
+        
+    <h4>Telefone: </h4> 11 964429980
+    
+    <h3><b> <u>2 - Escolaridade </u></b></h3>
+    
+<h4>Ensino Superior: Impacta Tecnologia</h4>
+    
+    
+<h3><b> <u>3 - Dados Profissionais </h3></b> </u>
+    
+<h4><b>Empresa: Xsolution Network</b><p>
+Cargo: Almoxarife<p>
+Ano Entrada: 2015 <p>
+<p>
+</h4></b>
+    
+    
+    
+ </body>
+    
+ </html>
